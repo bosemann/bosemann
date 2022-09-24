@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bosemann
+- 👋 Hi, I’m bosemann
 - 👀 I’m interested in all aspects of Software development
 - 🌱 I’m currently learning Java and Python at the Jetbrains Academy
 - 💞️ I’m looking to collaborate on ...
