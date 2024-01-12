@@ -1,7 +1,7 @@
 - 👋 Hi, I’m bosemann
 - 👀 I’m interested in all aspects of Software development
 - 🌱 I’m currently learning Python at HyperionDev Bootcamp
-- 💞️ I’m currently looking for entry level software engineer positions
+- 💞️ I’m currently looking for entry level software engineering positions
 - 📫 How to reach me....adamobinkwo@btinternet.com
 
 <!---
